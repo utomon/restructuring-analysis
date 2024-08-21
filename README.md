@@ -1,4 +1,4 @@
-# Company A Restructuring Analysis
+# A Company's Restructuring Analysis
 
 ## Overview
 This project aims to provide insights into the restructuring needs of Company A as it emerges from the COVID-19 pandemic. The analysis focuses on evaluating the performance ratings and leave usage across different age groups and departments, with the goal of informing decisions on whether to merge, eliminate, or retain certain departments.
