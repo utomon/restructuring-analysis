@@ -3,6 +3,9 @@
 ## Overview
 This project aims to provide insights into the restructuring needs of Company A as it emerges from the COVID-19 pandemic. The analysis focuses on evaluating the performance ratings and leave usage across different age groups and departments, with the goal of informing decisions on whether to merge, eliminate, or retain certain departments.
 
+Tableu Dashboard Link:
+https://public.tableau.com/views/david-milestone_1_dashboard/VisualData?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Files
 - **restructuring_analysis.ipynb**: The Jupyter Notebook containing the analysis code and visualizations.
 - **Dashboard (Tableau Public)**: A Tableau dashboard created to visualize the key findings from the analysis.
